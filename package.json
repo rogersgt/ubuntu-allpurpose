@@ -1,0 +1,10 @@
+{
+  "name": "ubuntu-allpurpose",
+  "version": "1.0.0",
+  "description": "ubuntu docker image with git, openssl, etc",
+  "scripts": {
+    "build": "docker build -t rogersg/ubuntu-allpurpose:latest ."
+  },
+  "author": "",
+  "license": "ISC"
+}
